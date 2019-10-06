@@ -49,5 +49,9 @@ def reduce_to_total(source_array, starting_point = 0)
 end
 
 def reduce_to_all_true(source_array)
-  
+  all_true = true
+  index = 0
+  while index < source_array.length do
+    if
+  end #end while
 end
