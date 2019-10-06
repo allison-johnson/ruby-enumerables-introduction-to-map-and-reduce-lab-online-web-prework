@@ -18,7 +18,7 @@ def map_to_no_change(source_array)
   new_array
 end
 
-def map_to_no_double(source_array)
+def map_to_double(source_array)
   new_array = []
   index = 0
   while index < source_array.length do
@@ -28,7 +28,7 @@ def map_to_no_double(source_array)
   new_array
 end
 
-def map_to_no_square(source_array)
+def map_to_square(source_array)
   new_array = []
   index = 0
   while index < source_array.length do
