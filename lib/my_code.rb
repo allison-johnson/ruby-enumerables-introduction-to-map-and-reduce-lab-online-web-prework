@@ -57,5 +57,5 @@ def reduce_to_all_true(source_array)
       index += 1
     end #end if
   end #end while
-  return true
+  return all_true
 end
